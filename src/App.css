@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+#search-box{
+  margin-left: 300%;
+}
+
+.project-detail-search li{
+  list-style-type: none;
+}
+
+.list-item{
+  list-style-type: none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +48,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+#label-list{
+  list-style: none;
+}
+

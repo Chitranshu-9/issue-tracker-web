@@ -1,0 +1,97 @@
+
+.navbar{
+    background: #0c73cc !important;
+    margin-left: -4%;
+}
+
+.navbar-brand{
+    margin-left: 5%;
+    font-weight: bolder;
+    color: azure;
+    
+}
+
+.dropdown{
+    border-radius:0;
+    border:0;
+}
+.dropdown-menu{
+    background: #0c73cc;
+    border:0;
+    top:80%;
+    border-radius:0px 0px 5px 5px;
+}
+.dropdown-item:hover{
+    background:#085ca5;
+    color:#fff;
+}
+.dropdown-menu a{
+    color:#fff;
+} 
+.navbar .nav-item .nav-link{
+    color:#eee !important; 
+    
+}
+.navbar .nav-item .nav-link:hover .navbar .nav-item .nav-link{
+    color:red !important;
+    
+}
+
+#clr-btn{
+    border-radius: 25px;
+    background-color: #0c73cc;
+    border: none;
+    color: white;
+    margin-left: 20px;
+    height: 35px;
+}
+
+#srch-labels{
+    border: none;
+    border-radius: 25px;
+    padding: 5px;
+    background-color: #0C73CC;
+    color: white;
+    margin-left: 8px;
+}
+
+#label-list{
+    list-style: none;
+}
+.create-prjct{
+    margin-left: 8px;
+    border-radius: 25px;
+}
+
+#submit-prjct{
+    border-radius: 15px;
+    background-color: #0c73cc;
+    border: none;
+    color: white;
+    margin-left: 20px;
+    height: 35px;
+    width: 70px;
+}
+
+.create-issue-form{
+    margin-left: 8px;
+    border-radius: 25px;
+}
+#submit-issue{
+    border-radius: 15px;
+    background-color: #0c73cc;
+    border: none;
+    color: white;
+    margin-left: 20px;
+    height: 35px;
+    width: 70px;
+}
+
+#srch-label-author{
+    margin-left: 8px;
+    border-radius: 25px;
+}
+
+.checkbx-srch{
+    margin-left: 8px;
+}
